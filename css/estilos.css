@@ -7,7 +7,7 @@ body
     margin:0;
     padding: 0;
 }
-#cabezera
+#cabecera
 {
     background: #33a;
     color: white;
@@ -16,7 +16,7 @@ body
     padding: 0.5em;
 }
 
-#cabezera #tagline
+#cabecera #tagline
 {
     margin: 0 0 0 0;
     font-weight: normal;
